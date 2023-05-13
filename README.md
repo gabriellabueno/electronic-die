@@ -24,8 +24,8 @@ Realização como participação do 1º semestre de Análise e Desenvolvimento d
   
   
 ### Funcionamento
-Ao pressionar o botão, é iniciado um sorteio de um número entre 1 e 6.  
-Quando o botão é solto, um número aleatório selecionado é apresentado no Display.
+Ao pressionar o botão, é iniciado o sorteio de um número entre 1 e 6.  
+Quando o botão é solto, o número aleatório selecionado é apresentado no Display.
 
 <div align="center">
 
