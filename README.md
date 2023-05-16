@@ -1,3 +1,4 @@
+[![Translation](https://img.shields.io/badge/English%20Translation-grey?style=for-the-badge)](https://github.com/gabriellabueno/Dado-Eletronico/blob/main/English-Translation.md)
 <div align="center">
 
 # :game_die: Dado Eletrônico :game_die:
