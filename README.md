@@ -2,17 +2,18 @@
 <div align="center">
 
 # :game_die: Dado Eletrônico :game_die:
+
 </div>
+
+<img align="right" src="/Funcionamento.gif" alt="Behavior" min-width="380px" max-width="380px" width="380px">
 
 Dado Eletrônico que simula um dado físico de 6 faces (D6).
 
 Projeto apresentado na Feira de Robótica da **FATEC Guarulhos**.  
 Realização como participação do 1º semestre de Análise e Desenvolvimento de Sistemas.  
-`11 de Maio de 2023`
 
-<div align="center">
-<img src="/Funcionamento.gif" alt="Funcionamento">
-</div>
+| 11 de Maio de 2023 |
+| --- |
   
 ### Componentes
 - Arduino Uno
