@@ -1,17 +1,18 @@
 <div align="center">
 
 # :game_die: Eletronic Die :game_die:
+
 </div>
+
+<img align="right" src="/Funcionamento.gif" alt="Behavior" min-width="380px" max-width="380px" width="380px">
 
 Electronic Die that simulates a physical 6-sided die (D6).
 
 Project presented at the Robotics Convention of **FATEC Guarulhos**.  
 Achievement as participation of the 1st semester of Systems Analysis and Development.  
-`May 11, 2023`
 
-<div align="center">
-<img src="/Funcionamento.gif" alt="Behavior">
-</div>
+| May 11, 2023 |
+| --- |
   
 ### Components
 - Arduino Uno
