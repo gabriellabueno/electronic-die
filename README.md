@@ -1,41 +1,39 @@
-[![Translation](https://img.shields.io/badge/English%20Translation-grey?style=for-the-badge)](https://github.com/gabriellabueno/Dado-Eletronico/blob/main/English-Translation.md)
 <div align="center">
 
-# :game_die: Dado Eletrônico :game_die:
+# :game_die: Eletronic Die :game_die:
 
 </div>
 
 <img align="right" src="/Funcionamento.gif" alt="Behavior" min-width="380px" max-width="380px" width="380px">
 
-Dado Eletrônico que simula um dado físico de 6 faces (D6).
+Electronic Die that simulates a physical 6-sided die (D6).
 
-Projeto apresentado na Feira de Robótica da **FATEC Guarulhos**.  
-Realização como participação do 1º semestre de Análise e Desenvolvimento de Sistemas.  
+Project presented at the Robotics Convention of **FATEC Guarulhos**.  
+Achievement as participation of the 1st semester of Systems Analysis and Development.  
 
-| 11 de Maio de 2023 |
+| May 11, 2023 |
 | --- |
   
-### Componentes
+### Components
 - Arduino Uno
-- Protoboard
-- Display de 7 segmentos
+- Breadboard
+- Seven-Segment Display 
 - Push-button
-- Resistor de 10k Ω
-- Resistor de 330 Ω 
-- Jumpers (fios)
+- Resistor 10k Ω
+- Resistor 330 Ω 
+- Jumpers
   
   
-### Funcionamento
-Ao pressionar o botão, é iniciado o sorteio de um número entre 1 e 6.  
-Quando o botão é solto, o número aleatório selecionado é apresentado no Display.
-
+### Behavior
+When pressing the button, a number between 1 and 6 is drawn.  
+When the button is released, the selected random number is shown on the Display.
 <div align="center">
 
-## Especificações
+## Specifications
   
-[![Código](https://img.shields.io/badge/Código-black?style=for-the-badge)](https://github.com/gabriellabueno/Dado-Eletronico/blob/main/codigo.c%2B%2B)
-[![TinkerCad](https://img.shields.io/badge/Circuito%20Tinkercad-red?style=for-the-badge)](https://www.tinkercad.com/things/6grCl2sPp0o)
-[![C++](https://img.shields.io/badge/Linguagem%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
+[![Code](https://img.shields.io/badge/Code-black?style=for-the-badge)](https://github.com/gabriellabueno/Dado-Eletronico/blob/main/codigo.c%2B%2B)
+[![TinkerCad](https://img.shields.io/badge/Tinkercad%20Circuit-red?style=for-the-badge)](https://www.tinkercad.com/things/6grCl2sPp0o)
+[![C++](https://img.shields.io/badge/%20C%2B%2B%20Language-00599C?style=for-the-badge&logo=logoColor=white)](https://cplusplus.com)
 [![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
 </div>
 
